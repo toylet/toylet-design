@@ -46,6 +46,28 @@
           "red": 0.047465209313693
         },
         "name": "Text"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.202496722027972,
+          "blue": 0.1764705882352941,
+          "green": 0.1098039215686274,
+          "red": 0.04705882352941177
+        },
+        "name": "Unimportant"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2334794207317074,
+          "green": 0.2334794207317074,
+          "red": 1
+        },
+        "name": "Error"
       }
     ],
     "colors": [
@@ -76,6 +98,20 @@
         "blue": 0.1778759057971014,
         "green": 0.1096477930673712,
         "red": 0.047465209313693
+      },
+      {
+        "_class": "color",
+        "alpha": 0.202496722027972,
+        "blue": 0.1764705882352941,
+        "green": 0.1098039215686274,
+        "red": 0.04705882352941177
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2334794207317074,
+        "green": 0.2334794207317074,
+        "red": 1
       }
     ],
     "gradientAssets": [
@@ -110,6 +146,7 @@
   },
   "pages": [
     "Branding",
+    "UI",
     "Symbols"
   ],
   "userInfo": {

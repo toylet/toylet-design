@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F5C015DC-BEAB-4075-B84C-4705DED5AD29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56BEFEAC-C443-40DC-8573-754991F1D439",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "004587B7-777D-4F56-B16F-B8AE8E57F9DF",
+    "height": 154,
+    "width": 135,
+    "x": 91.85261111926069,
+    "y": 128.7512332112336
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "85CAE21F-36C5-4FAC-8D3F-49C051A6719D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0EE4872E-A387-48F1-8528-DAF6ABD387F2"
+    }
+  ],
+  "name": "Skin color",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C14504E0-ED73-4AFA-B093-308DBC3A3E49",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

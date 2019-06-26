@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6F26E885-A024-420D-B865-3D3458C46D6E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EDA612DE-C1CD-4639-A7C1-AB3C16348A5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47028E93-28B8-4473-A78A-82B7B99DECEC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B129B51B-292D-4163-9DB4-B28940418DFF",
+    "height": 1080,
+    "width": 1920,
+    "x": -397,
+    "y": 954
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D09353E8-8915-4B17-B3AE-E7CAB83E8F6B"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B9E7F6ED-84A3-4939-B41E-590665191FA5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F3F82DBE-F232-4EAC-9FCD-E58200BE0A0C"
+    },
+    {
+      "class": "rectangle",
+      "id": "F617B108-8E7C-46C4-BC36-4BFA7E042D8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34BB6C75-72B6-4C25-83F5-D337B01D28CD"
+    },
+    {
+      "class": "group",
+      "id": "3C8CA400-AEEA-4587-931D-AE0E844B269E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "51DBE1C1-257C-43B4-8B43-FEC9A4BEA45B"
+    },
+    {
+      "class": "text",
+      "id": "E6772818-5B6D-4476-A186-D940050CB0C2"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "D61803E3-5869-4731-8E69-C972F27BA762",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 360,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "1-1-2. Login Errored",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A37023E3-80A1-4AFD-85D8-5BC8089F88C1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9995C614-298A-4459-B7B3-284A75340D3C",
+    "guides": [
+    ]
+  }
+}

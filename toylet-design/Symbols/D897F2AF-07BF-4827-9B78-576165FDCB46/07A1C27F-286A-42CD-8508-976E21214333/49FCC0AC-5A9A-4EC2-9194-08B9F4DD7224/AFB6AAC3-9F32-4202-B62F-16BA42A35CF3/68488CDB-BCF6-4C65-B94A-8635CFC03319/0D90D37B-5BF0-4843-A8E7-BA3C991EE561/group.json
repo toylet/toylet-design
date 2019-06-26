@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0D90D37B-5BF0-4843-A8E7-BA3C991EE561",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED7BD493-697B-4A6B-B7D6-3A9817A9508C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "68B6E92F-4BCE-4A33-8816-3754A9A0DCA1",
+    "height": 115,
+    "width": 93,
+    "x": 52.93567635403827,
+    "y": 42.76210531685432
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F4642F84-5E2C-429B-B50B-AB5CC93E65DC"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "89C71398-E9A8-4B46-B1D5-370F496AFBD5"
+    }
+  ],
+  "name": "Face color",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "243D80D9-AD68-41DF-977E-884F9D026A1F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

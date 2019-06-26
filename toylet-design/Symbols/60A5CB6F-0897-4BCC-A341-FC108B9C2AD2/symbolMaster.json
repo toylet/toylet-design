@@ -1,8 +1,17 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "1366A9C6-5D7C-4563-A440-EBBFFCDCE629",
+  "do_objectID": "60A5CB6F-0897-4BCC-A341-FC108B9C2AD2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,69 +24,48 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
+    "height": 231,
+    "width": 538,
+    "x": 301,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -349,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "537EBCDF-AFD2-488D-A9D7-8BBC80F6E59F"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "60A5CB6F-0897-4BCC-A341-FC108B9C2AD2"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "DFFA497E-D588-4F24-8AE3-FFA927CE673F"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "A14ECC0A-43B0-4EB7-9CF8-40E4C820FA77"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "AB4F4977-B775-4C34-94B8-30592980F1C2"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "D897F2AF-07BF-4827-9B78-576165FDCB46"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "E7DB4012-7EC2-4E6E-8A57-D220838E7FBA"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "ACF352E9-E3F5-48ED-984B-B519620A081F"
+      "class": "group",
+      "id": "1F9D805B-C760-4F8B-804D-BF9A69571640"
     }
   ],
-  "name": "Symbols",
+  "name": "Logo",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -85,9 +73,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "69BF82F1-14D5-4E1F-BC44-B540DF6BFBD0",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -346,
+    "base": 0,
     "guides": [
     ]
   }
