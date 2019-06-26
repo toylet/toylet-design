@@ -25,8 +25,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B6A1DB4B-F723-419D-9E7E-EE6B1935C01D",
-    "height": 820,
-    "width": 1500,
+    "height": 736,
+    "width": 1068,
     "x": -113,
     "y": 166
   },
@@ -59,11 +59,11 @@
       "id": "9FCC2759-0181-49DA-AB84-F1113E1133DB"
     },
     {
-      "class": "shapeGroup",
-      "id": "58B80001-7059-4E08-8E95-38F8F22D02EE"
+      "class": "symbolInstance",
+      "id": "22173E55-D1E2-4F09-A6FB-C734FB9DA044"
     }
   ],
-  "name": "Logo & Symbol",
+  "name": "Logo",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

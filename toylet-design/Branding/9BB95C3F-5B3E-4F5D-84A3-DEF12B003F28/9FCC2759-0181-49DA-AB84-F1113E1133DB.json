@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 13,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Logo & Symbol"
+    "string": "Logo"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "CD228D6F-84EF-4B46-9E75-384558D006B5",
     "height": 87,
-    "width": 514,
+    "width": 171,
     "x": 64,
     "y": 54
   },
-  "glyphBounds": "{{2, 14}, {511, 73}}",
+  "glyphBounds": "{{2, 17}, {167, 70}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Logo & Symbol",
+  "name": "Logo",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

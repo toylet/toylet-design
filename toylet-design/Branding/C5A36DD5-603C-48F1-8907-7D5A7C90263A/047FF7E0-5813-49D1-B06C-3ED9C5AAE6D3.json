@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "047FF7E0-5813-49D1-B06C-3ED9C5AAE6D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8DA7001C-7D47-4932-A93E-CC2B7A146CA9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "825B1533-409B-4148-9B0D-00209E1DA051",
+    "height": 157,
+    "width": 101,
+    "x": 442,
+    "y": 189
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Color Swatch Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "36600413-5348-4C12-8538-060D09469D96_layerStyle",
+      "value": "5180A640-2911-4637-989C-E24ABA8E5E34"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "64BC6A28-EC24-45E3-932C-04AC837BE56C_stringValue",
+      "value": "Error"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "782EA121-2AA5-4EFA-8175-BFACEB86C2B3_stringValue",
+      "value": "#FF3C3C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "917780DC-688A-4B83-86DC-3814BC0A0748",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "75357078-E09E-47CC-954D-4EAD5F06CD06",
+  "verticalSpacing": 0
+}
