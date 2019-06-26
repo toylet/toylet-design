@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "246DE5B2-1E30-4B25-8745-83DC10660558",
+    "do_objectID": "B8B91EC2-079C-4E6F-B79E-EF3078CE1863",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C5A36DD5-603C-48F1-8907-7D5A7C90263A",
+  "do_objectID": "9BB95C3F-5B3E-4F5D-84A3-DEF12B003F28",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "AF447873-9ADF-4A09-8C4F-626447ED6CE6",
+    "do_objectID": "BC653804-5A68-4BDF-97E0-CBE5A331023E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,23 +24,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7C284613-3293-4FB4-87F4-24AFD3344633",
-    "height": 418,
-    "width": 670,
+    "do_objectID": "B6A1DB4B-F723-419D-9E7E-EE6B1935C01D",
+    "height": 820,
+    "width": 1500,
     "x": -113,
-    "y": -339
+    "y": 166
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "2425167F-E85D-4284-BA73-52DD81F963B9"
+    "do_objectID": "22CF06D1-820A-440F-8866-D54CF53935DD"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "7D8505F4-4305-45A4-982D-FF5CABE5EDB0",
+    "do_objectID": "9BFA3211-C3B6-4AF6-ACF3-EFBB1FF5BD4E",
     "guides": [
     ]
   },
@@ -55,23 +55,15 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "C24FB936-3650-4557-BAE6-BB2D4A175EC2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2FC1AC14-339D-447A-A9A7-8C1046577D18"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "505C8D7C-3043-4067-AE7C-152A095BD0CC"
-    },
-    {
       "class": "text",
-      "id": "8A5765E3-F38B-4F48-8B67-8019DDDC6DC8"
+      "id": "9FCC2759-0181-49DA-AB84-F1113E1133DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58B80001-7059-4E08-8E95-38F8F22D02EE"
     }
   ],
-  "name": "Colors",
+  "name": "Logo & Symbol",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -80,7 +72,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "E95DA74D-BA27-407C-BAF8-B3EAA4FC98CB",
+    "do_objectID": "5B93F755-B69A-492A-9185-AAD41884A077",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -89,7 +81,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "849B1A5C-5DCD-4FB7-B8BF-07DB0AE11C2A",
+    "do_objectID": "2E49DAED-862B-41E1-8C69-8A75E6F7DC59",
     "guides": [
     ]
   }
