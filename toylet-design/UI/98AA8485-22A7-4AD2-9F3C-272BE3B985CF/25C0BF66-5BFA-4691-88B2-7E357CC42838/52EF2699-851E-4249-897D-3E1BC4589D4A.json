@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "52EF2699-851E-4249-897D-3E1BC4589D4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FDCBA90-5ADF-4D09-9060-D708C34D387B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8301CC31-4996-4521-98B9-7AFB40FDB7B8",
+    "height": 239,
+    "width": 378,
+    "x": 411,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards/ProjectCard/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9DF0F03E-182F-43AD-9BA8-CACACA36BA89",
+      "overrideName": "B4D5A1D0-33B2-4E3C-A402-0CE1BC5A50F4_stringValue",
+      "value": "3 / 3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27980ACD-A770-4F97-A8E8-FF32B2027556",
+      "overrideName": "742C7D24-422B-4F2D-9117-9671ED6D1D11_stringValue",
+      "value": "Design"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09A39728-6FC6-4D50-9BA2-26B0BFE4E2B3",
+      "overrideName": "55D6A30C-0CD4-4F0A-B062-AA78DE75F090_stringValue",
+      "value": "2019. 06. 24"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0273516-20BA-473B-A160-71BAEA3F53CA",
+      "overrideName": "089AD0D2-DDC2-4A12-976B-39F414D4DFE9_symbolID",
+      "value": "055D6F7A-7A5F-4B07-841F-17386BB0800A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6F273435-FC1A-49A6-AFA0-2D23F950E444",
+      "overrideName": "A6C074D3-CF11-407B-9155-9949C4A8F602_stringValue",
+      "value": "Seoul Bike Redesign"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08055EA3-CB70-4425-88F3-344FCCBB30A5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "20248166-B195-4104-9900-FAED6137714E",
+  "verticalSpacing": 0
+}

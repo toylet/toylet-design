@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E4CAEF23-C8E3-4A07-B559-08D0C3C799C9",
-    "height": 416,
-    "width": 695.9999999999999,
+    "height": 521,
+    "width": 696,
     "x": 0,
     "y": 0
   },
@@ -46,6 +46,10 @@
     {
       "class": "symbolInstance",
       "id": "9C3FC627-64E2-4952-914C-BC5719A31ABD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F59EFE6-E78C-4ED0-ADE2-0DF52A068665"
     }
   ],
   "name": "Group 4",

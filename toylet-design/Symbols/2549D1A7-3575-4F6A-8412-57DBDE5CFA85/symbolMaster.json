@@ -10,13 +10,22 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 167,
+  "changeIdentifier": 173,
   "clippingMaskMode": 0,
   "do_objectID": "2549D1A7-3575-4F6A-8412-57DBDE5CFA85",
   "exportOptions": {
     "_class": "exportOptions",
     "do_objectID": "17E61668-E39F-4351-BB7F-7E7F2355A1F4",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -37,7 +46,7 @@
     "do_objectID": "6DB6AB52-B0F5-43ED-AA06-A0608847FCD4"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -66,8 +75,8 @@
       "id": "49E3FEA8-0930-41DD-ABC2-54864D4AB899"
     }
   ],
-  "name": "Cards/ProjectCard/Status/ShouldWrite Copy",
-  "nameIsFixed": false,
+  "name": "Cards/ProjectCard/Status/Wrote",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

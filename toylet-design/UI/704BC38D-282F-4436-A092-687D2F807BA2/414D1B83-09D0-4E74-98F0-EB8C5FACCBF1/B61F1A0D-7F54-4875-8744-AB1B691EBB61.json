@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B61F1A0D-7F54-4875-8744-AB1B691EBB61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F78AD23-33A0-451F-B3E0-24D96883A67B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE255F22-C73E-4559-B9C0-298D7F1BAE90",
+    "height": 73,
+    "width": 666,
+    "x": 0,
+    "y": 104.9999999999997
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input/TextInput/BeforeInput Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C157AC4-253E-4106-9123-98CEDFFD71C8",
+      "overrideName": "4BEC97D6-660E-48C1-AE00-BF3EE407DFC7_stringValue",
+      "value": "BEHANCE LInk (Optional)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69C14A14-6008-4CBC-9F2C-649090A84497",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "66A72F2A-5339-4C11-87DA-37EA639CF465",
+  "verticalSpacing": 0
+}

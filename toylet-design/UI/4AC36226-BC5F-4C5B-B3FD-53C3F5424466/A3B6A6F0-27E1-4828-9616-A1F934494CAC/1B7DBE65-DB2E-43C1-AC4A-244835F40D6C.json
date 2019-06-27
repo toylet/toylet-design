@@ -33,6 +33,12 @@
   "name": "Cards/ProjectCard/Default",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7FFEE5B9-E432-4CB9-BA8B-57A3BFAF6D38",
+      "overrideName": "D85B6905-D6AF-43F1-93A1-24687CD99BA8_symbolID",
+      "value": "D16C0C76-68C4-457A-8BFB-24074E8278F0"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

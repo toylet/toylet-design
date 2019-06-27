@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E253FA2D-1D35-4EDD-AFF8-08DD26A604C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B50E3F0F-F8B5-4994-BEEA-A84574869408",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D8E7135-5B82-4B28-BF23-99512B88F243",
+    "height": 239,
+    "width": 379,
+    "x": 821,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "730AE327-6452-4DC4-B32B-678D01F8DFF7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "162F8A63-3E43-4F3D-BA21-AABECDEC30C5"
+    }
+  ],
+  "name": "Cards/ProjectCard/Default",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7614F85A-C0B6-44E0-A446-F06AA3781F03",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

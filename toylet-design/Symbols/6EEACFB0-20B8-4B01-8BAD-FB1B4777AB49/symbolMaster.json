@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 45,
+  "changeIdentifier": 48,
   "clippingMaskMode": 0,
   "do_objectID": "6EEACFB0-20B8-4B01-8BAD-FB1B4777AB49",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -33,7 +42,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,6 +69,11 @@
   "name": "Icon/Discover Projects",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A59561A5-3624-4F11-A69B-63AF0244AB7C_layerStyle"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

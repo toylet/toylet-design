@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E2ED47EA-ECED-4A42-A500-7A28B5E6E38C",
-    "height": 416,
+    "height": 521,
     "width": 696,
     "x": 1044,
     "y": 254
@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",

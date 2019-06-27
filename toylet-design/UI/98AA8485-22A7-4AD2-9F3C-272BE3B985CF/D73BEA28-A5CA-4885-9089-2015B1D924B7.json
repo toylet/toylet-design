@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D73BEA28-A5CA-4885-9089-2015B1D924B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "195A87C0-B197-4A64-B919-374A2728FAAB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AD008A7-758A-4FDD-B101-AA27B700C252",
+    "height": 1080,
+    "width": 436,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SideMenu",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABF96004-6B85-4B1E-919F-AFBC0AE5427B",
+      "overrideName": "76024FF8-7D88-4AD1-8910-33E7E2C51635/BD23DCD5-6477-49E2-B268-98D1B6B95858_stringValue",
+      "value": "Hall of Best Toyler"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86DDCD4A-F9F6-42CB-B3BB-4C21FF3DD8CE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 16,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1024912587412587,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 8,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DA76F9FE-65A9-4925-908B-5344369E4956",
+  "verticalSpacing": 0
+}

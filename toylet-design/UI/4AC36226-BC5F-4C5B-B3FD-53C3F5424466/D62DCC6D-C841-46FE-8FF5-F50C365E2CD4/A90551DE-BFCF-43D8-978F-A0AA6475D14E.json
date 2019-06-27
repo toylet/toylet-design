@@ -50,6 +50,12 @@
       "do_objectID": "2E5D1651-632F-4ED1-9A63-AE87F75FAB2B",
       "overrideName": "8E05AFE5-A5EB-4A66-A134-D511F313D317_stringValue",
       "value": "2019. 06. 24"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A6988C6-4224-48E0-8B44-1EA8183B046F",
+      "overrideName": "D85B6905-D6AF-43F1-93A1-24687CD99BA8_symbolID",
+      "value": "0403E49E-3B93-4A4D-908C-F9B14905DB98"
     }
   ],
   "resizingConstraint": 63,

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F59EFE6-E78C-4ED0-ADE2-0DF52A068665",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "113291F5-27C9-4DAC-B1BB-BF10B21E522A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A9A779F-6FBA-4559-8A1E-07DA2A8DC842",
+    "height": 73,
+    "width": 638.9179856115107,
+    "x": -5.684341886080801e-14,
+    "y": 448
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input/TextInput/BeforeInput Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDB141D3-BA77-47B2-8EF0-36C64BD8B984",
+      "overrideName": "4BEC97D6-660E-48C1-AE00-BF3EE407DFC7_stringValue",
+      "value": "PASSWORD CONFIRM"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F18C767-926C-46B4-A698-689A48CBFFA8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "66A72F2A-5339-4C11-87DA-37EA639CF465",
+  "verticalSpacing": 0
+}

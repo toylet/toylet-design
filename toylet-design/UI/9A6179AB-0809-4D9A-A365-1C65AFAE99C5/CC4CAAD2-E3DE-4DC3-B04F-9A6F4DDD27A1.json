@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC4CAAD2-E3DE-4DC3-B04F-9A6F4DDD27A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B883D20-EADD-48E9-B865-41D5FCA195A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BBF9B626-C9C0-4DE7-A055-73EBBEABD918",
+    "height": 80,
+    "width": 270,
+    "x": 1275,
+    "y": 346
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards/Connect Github",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7DAFFDD8-35E4-4AD9-BFD5-CF59DEA455D9",
+      "overrideName": "7DEFBB08-73A5-4AA1-B22B-B43040D453E8_stringValue",
+      "value": "Visit Github Repo"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FBE9F7D-6A14-4476-916B-BBFD5F582724",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E7FEEFAC-E5FA-4AB9-A47E-7C0540721138",
+  "verticalSpacing": 0
+}

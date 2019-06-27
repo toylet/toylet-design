@@ -10,7 +10,7 @@
     "red": 0.377830615942029
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1347,
+  "changeIdentifier": 1625,
   "clippingMaskMode": 0,
   "do_objectID": "C8BE8853-1E33-4915-A717-88BCF27B878A",
   "exportOptions": {
@@ -86,18 +86,13 @@
       "id": "662D2C9A-086A-4D69-A33C-9BB87C184B59"
     },
     {
-      "class": "rectangle",
-      "id": "5536A306-A85F-4277-A1BE-1DC71122B40D"
+      "class": "symbolInstance",
+      "id": "D85B6905-D6AF-43F1-93A1-24687CD99BA8"
     }
   ],
   "name": "Cards/ProjectCard/Discover",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1E0444DA-3896-4F40-BFBD-561E75A0B9B5_stringValue"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -107,16 +102,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "662D2C9A-086A-4D69-A33C-9BB87C184B59_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1E0444DA-3896-4F40-BFBD-561E75A0B9B5_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "DF6584FA-7238-4AF8-8891-7AFABB399FCC_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -136,17 +121,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "DF6584FA-7238-4AF8-8891-7AFABB399FCC_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "8E05AFE5-A5EB-4A66-A134-D511F313D317_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "D676C1F5-3924-4A46-82A5-96CE33C5F6F2_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D85B6905-D6AF-43F1-93A1-24687CD99BA8_symbolID"
     }
   ],
   "resizesContent": false,

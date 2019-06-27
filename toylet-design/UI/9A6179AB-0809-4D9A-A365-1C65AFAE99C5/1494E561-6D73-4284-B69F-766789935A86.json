@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1494E561-6D73-4284-B69F-766789935A86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF7CDDCF-8CE3-4DC5-A432-BAF447817485",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A8DEDD79-EB6A-4502-934C-67D5E8F46FA8",
+    "height": 80,
+    "width": 270,
+    "x": 1590,
+    "y": 346
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards/Connect Github Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42D33F82-9D79-48A3-A9F3-7F372DE86BBF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E7FEEFAC-E5FA-4AB9-A47E-7C0540721138",
+  "verticalSpacing": 0
+}
