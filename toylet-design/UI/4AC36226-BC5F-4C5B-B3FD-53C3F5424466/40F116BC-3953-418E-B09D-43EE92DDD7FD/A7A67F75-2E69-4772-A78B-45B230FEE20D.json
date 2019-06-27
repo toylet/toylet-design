@@ -1,10 +1,11 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F846A152-FF58-42D4-9AF1-22409D9C2118",
+  "do_objectID": "A7A67F75-2E69-4772-A78B-45B230FEE20D",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5806DDF0-3522-4197-B463-2CBE79296D39",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,44 +16,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
-    "width": 30,
+    "do_objectID": "9A1C56FF-A035-4ABC-9C13-FDAAA3C3E6F6",
+    "height": 239,
+    "width": 379,
     "x": 0,
     "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "A25ED95A-2D81-47B1-A11A-9FD3D06CE71B"
-    }
-  ],
-  "name": "round-toys-24px",
+  "name": "Cards/ProjectCard/Default",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.8500744047619048
-    },
+    "do_objectID": "7E1C7E74-6A79-43A2-AA32-FF6D51793E95",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "8FB0AB49-EA7A-4A0E-BD4C-0D6E7C8ACBAE",
+  "verticalSpacing": 0
 }

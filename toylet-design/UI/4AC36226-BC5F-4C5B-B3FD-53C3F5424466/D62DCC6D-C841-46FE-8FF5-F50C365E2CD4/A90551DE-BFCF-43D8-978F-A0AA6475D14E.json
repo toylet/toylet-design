@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A90551DE-BFCF-43D8-978F-A0AA6475D14E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B895D23-C3E8-4CE7-819F-0320A8E6E663",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E9FB25B2-FDEE-4935-A41C-9B8BF32B9BEE",
+    "height": 239,
+    "width": 378,
+    "x": 411,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards/ProjectCard/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6D18B492-FF12-48F9-B0DF-D76859FEF990",
+      "overrideName": "2C1357F9-EC5B-40DC-AEAE-0DAA85A77787_stringValue",
+      "value": "Develop"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E1031F5A-E28A-4A35-83E6-DB3D65E4FC4E",
+      "overrideName": "99F33C70-3A48-4A01-B811-9BBEFEEC9CD6_stringValue",
+      "value": "3 / 3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E5D1651-632F-4ED1-9A63-AE87F75FAB2B",
+      "overrideName": "8E05AFE5-A5EB-4A66-A134-D511F313D317_stringValue",
+      "value": "2019. 06. 24"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D295A33E-0352-4B6D-B974-B060A2B78B3A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8FB0AB49-EA7A-4A0E-BD4C-0D6E7C8ACBAE",
+  "verticalSpacing": 0
+}

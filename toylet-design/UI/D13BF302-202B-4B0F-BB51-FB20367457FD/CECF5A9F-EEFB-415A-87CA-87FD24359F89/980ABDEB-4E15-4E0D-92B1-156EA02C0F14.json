@@ -41,7 +41,7 @@
       "_class": "overrideValue",
       "do_objectID": "27980ACD-A770-4F97-A8E8-FF32B2027556",
       "overrideName": "742C7D24-422B-4F2D-9117-9671ED6D1D11_stringValue",
-      "value": "Develop"
+      "value": "Design"
     },
     {
       "_class": "overrideValue",
@@ -54,6 +54,12 @@
       "do_objectID": "A0273516-20BA-473B-A160-71BAEA3F53CA",
       "overrideName": "089AD0D2-DDC2-4A12-976B-39F414D4DFE9_symbolID",
       "value": "055D6F7A-7A5F-4B07-841F-17386BB0800A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6F273435-FC1A-49A6-AFA0-2D23F950E444",
+      "overrideName": "A6C074D3-CF11-407B-9155-9949C4A8F602_stringValue",
+      "value": "Seoul Bike Redesign"
     }
   ],
   "resizingConstraint": 63,

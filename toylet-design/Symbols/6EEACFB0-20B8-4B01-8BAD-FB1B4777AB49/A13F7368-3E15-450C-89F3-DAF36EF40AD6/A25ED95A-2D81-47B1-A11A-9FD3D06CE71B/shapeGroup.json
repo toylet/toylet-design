@@ -24,7 +24,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,

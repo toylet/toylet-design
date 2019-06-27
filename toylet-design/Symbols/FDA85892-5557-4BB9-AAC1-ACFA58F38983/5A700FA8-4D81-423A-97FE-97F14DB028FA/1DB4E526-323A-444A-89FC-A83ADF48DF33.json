@@ -17,7 +17,7 @@
             "_class": "UIFontDescriptor",
             "attributes": {
               "name": "SourceSansPro-Regular",
-              "size": 11
+              "size": 10
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "638C0177-7362-40A3-94B2-F040B1F7529F",
-    "height": 14,
-    "width": 51,
+    "height": 13,
+    "width": 47,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {51, 9}}",
+  "glyphBounds": "{{0, 3}, {47, 8}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +93,7 @@
           "_class": "UIFontDescriptor",
           "attributes": {
             "name": "SourceSansPro-Regular",
-            "size": 11
+            "size": 10
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,

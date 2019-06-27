@@ -1,0 +1,128 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "do_objectID": "1D93E0AD-0D4B-4159-A5C6-CEAE12D99418",
+    "green": 0.9647058823529412,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4AC36226-BC5F-4C5B-B3FD-53C3F5424466",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7C12F40-2215-4130-B0F0-AB44DE8E29F7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87DACD2C-67A8-4E93-BCA2-E548DB0ABB7D",
+    "height": 1080,
+    "width": 1920,
+    "x": -397,
+    "y": 4019
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F0A89353-96BB-4EE6-B838-D9376C0ED24B"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AC2FF93E-AA79-49BB-ACD1-465A66928EB2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3D2A627F-C6A3-4842-9EC7-31E24E376B0A"
+    },
+    {
+      "class": "text",
+      "id": "A7FB0017-2612-45C2-B4BD-619FCC167664"
+    },
+    {
+      "class": "text",
+      "id": "5BC76F7F-CAA8-436D-8FD5-479D91E8A470"
+    },
+    {
+      "class": "text",
+      "id": "85EB0FAB-4317-4A76-9C6C-912C67F4683B"
+    },
+    {
+      "class": "group",
+      "id": "D62DCC6D-C841-46FE-8FF5-F50C365E2CD4"
+    },
+    {
+      "class": "group",
+      "id": "A3B6A6F0-27E1-4828-9616-A1F934494CAC"
+    },
+    {
+      "class": "group",
+      "id": "40F116BC-3953-418E-B09D-43EE92DDD7FD"
+    },
+    {
+      "class": "group",
+      "id": "8E970204-E6BC-4B01-AEA4-F4BCEA087545"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "F10524E3-C4F1-4BF9-AB6C-CC59558B1245",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 360,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "2-2-1. Main (Discover Projects) ",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC93193A-B080-4A96-AD89-BAD9B91D13D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D41184F9-BC68-4DCC-9353-50BF0FE716F5",
+    "guides": [
+    ]
+  }
+}

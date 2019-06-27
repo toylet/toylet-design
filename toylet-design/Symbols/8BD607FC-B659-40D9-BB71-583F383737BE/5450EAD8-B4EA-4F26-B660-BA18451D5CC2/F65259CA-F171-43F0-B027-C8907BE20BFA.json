@@ -19,9 +19,9 @@
     "height": 28,
     "width": 30,
     "x": 0,
-    "y": 1
+    "y": 0
   },
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

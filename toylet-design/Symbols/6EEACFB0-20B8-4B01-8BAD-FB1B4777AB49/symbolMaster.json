@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 15,
+  "changeIdentifier": 45,
   "clippingMaskMode": 0,
   "do_objectID": "6EEACFB0-20B8-4B01-8BAD-FB1B4777AB49",
   "exportOptions": {
@@ -50,11 +50,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "F846A152-FF58-42D4-9AF1-22409D9C2118"
+      "id": "A13F7368-3E15-450C-89F3-DAF36EF40AD6"
     }
   ],
   "name": "Icon/Discover Projects",

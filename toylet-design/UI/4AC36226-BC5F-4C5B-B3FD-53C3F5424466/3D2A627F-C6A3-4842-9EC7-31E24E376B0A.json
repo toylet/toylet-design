@@ -1,0 +1,128 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D2A627F-C6A3-4842-9EC7-31E24E376B0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2EB0076-F416-4D8F-AE6B-84175682DFBE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FB973DB-8EBB-4E80-B817-AEDDE240ABC2",
+    "height": 1080,
+    "width": 436,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SideMenu",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABF96004-6B85-4B1E-919F-AFBC0AE5427B",
+      "overrideName": "76024FF8-7D88-4AD1-8910-33E7E2C51635/BD23DCD5-6477-49E2-B268-98D1B6B95858_stringValue",
+      "value": "Hall of Best Toyler"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9A42C03-F34E-4B82-AFE3-F8C9B42B5268",
+      "overrideName": "0D8C412A-FCB0-4D8F-8C75-16E6C8C1FD9D_symbolID",
+      "value": "6EC68710-A883-480B-BBD1-6812AA319741"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E0FC818-F31F-4381-9885-D1BF807EB57B",
+      "overrideName": "0D8C412A-FCB0-4D8F-8C75-16E6C8C1FD9D/B6A9CA66-6C67-4F06-95A3-C538C9FDB5D6_symbolID",
+      "value": "B4CEF906-9954-4D43-AFC9-F97FBE510975"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD658479-F8C2-4582-8CA1-8455C1F5EA5A",
+      "overrideName": "0D8C412A-FCB0-4D8F-8C75-16E6C8C1FD9D/B6A9CA66-6C67-4F06-95A3-C538C9FDB5D6/A59561A5-3624-4F11-A69B-63AF0244AB7C_layerStyle",
+      "value": "BB284053-CAC6-41A6-99E4-C174E366F93C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E3821BC8-DFAB-4321-B46A-71A9DC2CC17F",
+      "overrideName": "0D8C412A-FCB0-4D8F-8C75-16E6C8C1FD9D/AAC51A8A-9B51-4433-8D9C-7019BF87B306_stringValue",
+      "value": "Discover Projects"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FEB98A8D-63AA-4AC0-9715-C25A6014FF9F",
+      "overrideName": "982054E9-E7FA-43C8-861F-4CDF212AF4DC_symbolID",
+      "value": "818212ED-3C63-469B-8CE4-3636FA234101"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72AD88F6-AA7F-474A-A255-FA081ABE178E",
+      "overrideName": "982054E9-E7FA-43C8-861F-4CDF212AF4DC/E223164F-C26E-4395-B595-6460EFE23430_symbolID",
+      "value": "BCB9EA2E-A83C-4356-93EC-FBC7E23DA018"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BB5BADF-0A09-4B01-8695-8281E5C11553",
+      "overrideName": "982054E9-E7FA-43C8-861F-4CDF212AF4DC/BD23DCD5-6477-49E2-B268-98D1B6B95858_stringValue",
+      "value": "My Projects"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A9D286CB-84FB-462E-8DD2-C9E78798A28B",
+      "overrideName": "982054E9-E7FA-43C8-861F-4CDF212AF4DC/E223164F-C26E-4395-B595-6460EFE23430/484DC88D-505A-47DB-ABF3-60EF7E3CE27A_layerStyle",
+      "value": "BFFAC785-47CB-4960-BD82-FCA38E9758AC"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78F230FF-0B93-41B5-BD6A-1D4F82B2B79F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 16,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1024912587412587,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 8,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DA76F9FE-65A9-4925-908B-5344369E4956",
+  "verticalSpacing": 0
+}

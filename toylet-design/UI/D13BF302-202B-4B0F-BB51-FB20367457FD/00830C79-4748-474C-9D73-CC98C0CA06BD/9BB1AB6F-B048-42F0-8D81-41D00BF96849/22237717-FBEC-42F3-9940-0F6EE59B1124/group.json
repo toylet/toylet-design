@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4C3A2AF6-9285-479A-9597-FBBD9522C6B2",
+  "do_objectID": "22237717-FBEC-42F3-9940-0F6EE59B1124",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,25 +17,35 @@
     "constrainProportions": false,
     "height": 239,
     "width": 379,
-    "x": 821,
-    "y": 0
+    "x": 0,
+    "y": 1.4210854715202e-14
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Cards/ProjectCard/Default",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E7D2FCA3-2D01-4F50-8185-54EDF40480FC"
+    },
+    {
+      "class": "group",
+      "id": "FE85740D-26F4-42C5-AEF4-3B103E75DCF6"
+    }
   ],
+  "name": "Group 4",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -43,7 +53,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "20248166-B195-4104-9900-FAED6137714E",
-  "verticalSpacing": 0
+  }
 }
