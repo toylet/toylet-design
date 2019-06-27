@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 103,
   "clippingMaskMode": 0,
   "do_objectID": "15B3FE6A-F86E-4632-8A3A-71597714ADEE",
   "exportOptions": {
@@ -24,8 +24,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 88,
-    "width": 460,
+    "height": 63,
+    "width": 436,
     "x": 5339,
     "y": 0
   },
@@ -68,6 +68,16 @@
   "name": "MenuItem/Default",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BD23DCD5-6477-49E2-B268-98D1B6B95858_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E223164F-C26E-4395-B595-6460EFE23430_symbolID"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

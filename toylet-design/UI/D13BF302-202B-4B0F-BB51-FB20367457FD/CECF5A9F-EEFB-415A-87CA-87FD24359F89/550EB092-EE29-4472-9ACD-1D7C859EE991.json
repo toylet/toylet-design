@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "550EB092-EE29-4472-9ACD-1D7C859EE991",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 239,
+    "width": 379,
+    "x": 821,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards/ProjectCard/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "060E32CD-74B1-41EA-ADFD-83A4705D7731",
+      "overrideName": "742C7D24-422B-4F2D-9117-9671ED6D1D11_stringValue",
+      "value": "All"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "370BDE1C-B125-4F1A-8ECC-8CAF65CB2ED8",
+      "overrideName": "089AD0D2-DDC2-4A12-976B-39F414D4DFE9_symbolID",
+      "value": "7A254B53-DD1C-4D0A-80BD-2410CF37C306"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "20248166-B195-4104-9900-FAED6137714E",
+  "verticalSpacing": 0
+}

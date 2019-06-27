@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 29,
+        "length": 42,
         "location": 0
       }
     ],
-    "string": "June 27, 2019 | Affect Script"
+    "string": "June 27, 2019 | Beomjun Gil @Affect Script"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "3D82AABD-F214-477F-B1AA-B3527A683F52",
     "height": 24,
-    "width": 235,
+    "width": 401,
     "x": 99,
     "y": 6
   },
-  "glyphBounds": "{{0, 5}, {235, 20}}",
+  "glyphBounds": "{{0, 5}, {361, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "June 27, 2019 | Affe",
+  "name": "June 27, 2019 | Beom",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

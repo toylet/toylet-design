@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4,
+  "changeIdentifier": 361,
   "clippingMaskMode": 0,
   "do_objectID": "42FEFB3B-5666-4246-AE64-E842205843A2",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1080,
-    "width": 460,
+    "width": 436,
     "x": 5339,
     "y": 188
   },
@@ -50,11 +50,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "692E4549-2474-416C-8539-C8A0938803BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "982054E9-E7FA-43C8-861F-4CDF212AF4DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D8C412A-FCB0-4D8F-8C75-16E6C8C1FD9D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95500856-BE0C-42EE-9F75-1D815045E172"
+    },
+    {
       "class": "group",
-      "id": "5B3C9B33-F940-406F-8928-0F161FA7FA2A"
+      "id": "C0E98532-0A9A-4648-AC15-77922F3F0682"
     }
   ],
   "name": "SideMenu",
@@ -64,6 +80,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "76024FF8-7D88-4AD1-8910-33E7E2C51635_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B6EAAEF4-B676-4631-B3D5-16316669AC0B_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -78,17 +99,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B6A9CA66-6C67-4F06-95A3-C538C9FDB5D6_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "06C20514-3A1D-4BD6-A0C2-3440318FF09E_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AAC51A8A-9B51-4433-8D9C-7019BF87B306_stringValue"
     }
   ],
   "resizesContent": false,

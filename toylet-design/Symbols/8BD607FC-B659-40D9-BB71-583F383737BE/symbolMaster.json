@@ -1,0 +1,90 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CED917E9-859C-40E6-85B9-4C9E425CFF3E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 87,
+  "clippingMaskMode": 0,
+  "do_objectID": "8BD607FC-B659-40D9-BB71-583F383737BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F25B870C-57B7-4E9C-BD31-8D9095F9D382",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB893F0E-5EDB-4892-A190-937840DE4B88",
+    "height": 30,
+    "width": 30,
+    "x": 5209,
+    "y": 192
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A38DF51C-9814-4491-9A7F-7F41D54838FF"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "16227094-D8C8-4AA3-912D-A346988B71AB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F65259CA-F171-43F0-B027-C8907BE20BFA"
+    }
+  ],
+  "name": "Icon/Hall of Best Toyler",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB2D924A-E6AC-481C-ACDB-08C65ED45A30",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "458DF400-51D0-4452-8E84-D43FD4E00019",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EABD887E-0664-4833-9B5C-38BFF0E20E67",
+    "guides": [
+    ]
+  }
+}

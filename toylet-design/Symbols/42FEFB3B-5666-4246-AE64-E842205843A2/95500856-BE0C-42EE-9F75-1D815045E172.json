@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "95500856-BE0C-42EE-9F75-1D815045E172",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13C25645-A316-42A4-BDCD-FF09CF1F2CFA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B62F950-390F-4172-94D9-7E120595749D",
+    "height": 63,
+    "width": 436,
+    "x": 0,
+    "y": 394
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MenuItem/Default Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C98F9AF-4E87-4869-BF8C-DA297DED803D",
+      "overrideName": "BD23DCD5-6477-49E2-B268-98D1B6B95858_stringValue",
+      "value": "Hall of Best Toyler"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65F5F6F3-1A95-4B4A-BB3F-36113CB41761",
+      "overrideName": "E223164F-C26E-4395-B595-6460EFE23430_symbolID",
+      "value": "458DF400-51D0-4452-8E84-D43FD4E00019"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C71BF02-9F03-4A66-8A42-EBCA23BFADD0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "818212ED-3C63-469B-8CE4-3636FA234101",
+  "verticalSpacing": 0
+}

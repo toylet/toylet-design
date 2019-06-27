@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 6,
   "clippingMaskMode": 0,
   "do_objectID": "3BC256B6-495F-4150-AD7D-66B458A389B8",
   "exportOptions": {
@@ -57,9 +57,14 @@
       "id": "C1940D14-6BB8-4FE7-931B-A852A9D7E578"
     }
   ],
-  "name": "Icons/My Projects",
-  "nameIsFixed": false,
+  "name": "Icon/My Projects",
+  "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "484DC88D-505A-47DB-ABF3-60EF7E3CE27A_layerStyle"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

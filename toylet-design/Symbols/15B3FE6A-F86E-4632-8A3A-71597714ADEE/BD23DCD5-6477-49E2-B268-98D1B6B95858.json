@@ -17,7 +17,7 @@
             "_class": "UIFontDescriptor",
             "attributes": {
               "name": "SourceSansPro-SemiBold",
-              "size": 32
+              "size": 24
             }
           },
           "paragraphStyle": {
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F2D5CB86-3A9E-4634-9A1D-B7EB206C1650",
-    "height": 40,
-    "width": 236,
-    "x": 102,
-    "y": 24
+    "height": 31,
+    "width": 177,
+    "x": 90,
+    "y": 16
   },
-  "glyphBounds": "{{2, 8}, {233, 30}}",
+  "glyphBounds": "{{1, 7}, {176, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -98,7 +98,7 @@
           "_class": "UIFontDescriptor",
           "attributes": {
             "name": "SourceSansPro-SemiBold",
-            "size": 32
+            "size": 24
           }
         },
         "paragraphStyle": {

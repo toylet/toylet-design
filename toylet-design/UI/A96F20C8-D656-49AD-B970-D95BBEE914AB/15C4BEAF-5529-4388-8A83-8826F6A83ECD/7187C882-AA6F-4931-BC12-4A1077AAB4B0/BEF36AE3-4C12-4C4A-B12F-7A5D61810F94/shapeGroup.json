@@ -6,6 +6,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -41,8 +50,8 @@
       "id": "87A39ECA-85AF-4087-927D-9F13E8B123E0"
     }
   ],
-  "name": "Shape",
-  "nameIsFixed": false,
+  "name": "icon-download",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

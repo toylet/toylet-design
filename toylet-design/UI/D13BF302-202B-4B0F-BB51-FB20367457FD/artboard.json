@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "1C2D6929-C289-49E7-8C19-EFF26FE83A1E",
-    "green": 1,
-    "red": 1
+    "blue": 0.9686274509803922,
+    "green": 0.9647058823529412,
+    "red": 0.9607843137254902
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -27,8 +26,8 @@
     "do_objectID": "0935E467-BE4B-4B23-8B73-0BFC031D6160",
     "height": 1080,
     "width": 1920,
-    "x": 1782,
-    "y": 3822
+    "x": -397,
+    "y": 2742
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,36 +54,36 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "C1E0AE29-4A88-406E-A088-AA499B75C4F1"
-    },
-    {
       "class": "symbolInstance",
-      "id": "8D7ECF32-308D-46BF-B6E3-24E168372CA1"
+      "id": "5AFAAC1F-E710-442E-BE93-BBFEEFD31730"
     },
     {
-      "class": "rectangle",
-      "id": "F751A248-FE8C-4381-96A4-0767139A4B9F"
+      "class": "text",
+      "id": "BCCC5A92-1168-4B0F-9DA6-F5DBFAAA55D2"
+    },
+    {
+      "class": "text",
+      "id": "51CCF08A-6044-41A2-9D2F-EF509B34866A"
+    },
+    {
+      "class": "text",
+      "id": "E6D24592-229D-478A-B4E6-B2F7DFF0774D"
     },
     {
       "class": "group",
-      "id": "30DDB194-AFD9-4CC1-B530-E0FDA8FE62BB"
-    },
-    {
-      "class": "text",
-      "id": "A578CAC7-DFAA-40EC-806A-A04164F98E6B"
+      "id": "CECF5A9F-EEFB-415A-87CA-87FD24359F89"
     },
     {
       "class": "group",
-      "id": "C0D80EF8-7138-47EA-BF7B-05AE7B49051E"
+      "id": "9F809B79-AE88-4E63-9316-F12FCE0EE3A1"
     },
     {
-      "class": "text",
-      "id": "22997FEC-E801-44DC-B7DF-05E116EF4D32"
+      "class": "group",
+      "id": "00830C79-4748-474C-9D73-CC98C0CA06BD"
     },
     {
-      "class": "symbolInstance",
-      "id": "DECC1131-1E15-40BF-ACD2-636F44E91692"
+      "class": "group",
+      "id": "85C24134-DB8E-4C13-92D2-13F0C8D12115"
     }
   ],
   "layout": {
