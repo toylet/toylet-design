@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "do_objectID": "7C284613-3293-4FB4-87F4-24AFD3344633",
     "height": 418,
-    "width": 724,
+    "width": 746,
     "x": -113,
     "y": -339
   },
@@ -69,6 +69,10 @@
     {
       "class": "symbolInstance",
       "id": "047FF7E0-5813-49D1-B06C-3ED9C5AAE6D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47D15F0B-F9F1-4350-BF3C-E3E0813B7C0E"
     },
     {
       "class": "text",
