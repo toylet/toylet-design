@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 25,
   "clippingMaskMode": 0,
   "do_objectID": "E7DB4012-7EC2-4E6E-8A57-D220838E7FBA",
   "exportOptions": {
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -60,6 +60,11 @@
   "name": "Button/FAB/Active",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "80D681F0-155A-4C52-9A0D-CE3D53AE48EF_layerStyle"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

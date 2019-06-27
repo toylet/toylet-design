@@ -17,7 +17,7 @@
             "_class": "UIFontDescriptor",
             "attributes": {
               "name": "SourceSansPro-Bold",
-              "size": 24
+              "size": 20
             }
           },
           "paragraphStyle": {
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 31,
-    "width": 172,
-    "x": 54,
-    "y": 36
+    "height": 25,
+    "width": 144,
+    "x": 36,
+    "y": 24
   },
-  "glyphBounds": "{{0, 6}, {173, 24}}",
+  "glyphBounds": "{{0, 5}, {144, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -88,7 +88,7 @@
           "_class": "UIFontDescriptor",
           "attributes": {
             "name": "SourceSansPro-Bold",
-            "size": 24
+            "size": 20
           }
         },
         "paragraphStyle": {

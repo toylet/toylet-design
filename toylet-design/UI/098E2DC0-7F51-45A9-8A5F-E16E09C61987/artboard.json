@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A519C348-1477-46AB-B795-380935654D3A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "098E2DC0-7F51-45A9-8A5F-E16E09C61987",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A70BA38-6FDE-4D63-B4D9-A271AF3F1443",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76A32CB3-7333-439F-8136-92458B1943B9",
+    "height": 1080,
+    "width": 1920,
+    "x": -397,
+    "y": 2301
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B19FBAC1-6870-4FD3-B38E-6F8C03D89D8C"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7393CE5F-DB8C-4451-9A5F-DCCA09C18A47",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EE0C3D33-A5FA-4B46-98FD-AECFFA309851"
+    },
+    {
+      "class": "rectangle",
+      "id": "BB183102-772E-4CEF-8208-1E7F885187A4"
+    },
+    {
+      "class": "text",
+      "id": "289FC7C7-7DE9-4E35-8566-4F79849D687E"
+    },
+    {
+      "class": "group",
+      "id": "A34D2921-DCDA-4E77-A2D0-236963C081AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A026C431-5ED8-452E-A50E-5842B01D6688"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "841BD1DC-9DF0-4A16-A4A1-61135B235753",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 360,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "1-2-1. Register",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "920F5EB2-32E2-4AB3-9DA0-84D7BE22A9E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "694CDB4B-BA21-4341-9BCE-DFF79C1F6630",
+    "guides": [
+    ]
+  }
+}

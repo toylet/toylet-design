@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4,
+  "changeIdentifier": 153,
   "clippingMaskMode": 0,
   "do_objectID": "A14ECC0A-43B0-4EB7-9CF8-40E4C820FA77",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 103,
+    "height": 73,
     "width": 832,
     "x": 2393,
     "y": 203
@@ -60,6 +60,16 @@
   "name": "Input/TextInput/Filled",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F9D7D49B-4717-41E3-8B8F-5D91C5E6915B_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F9D7D49B-4717-41E3-8B8F-5D91C5E6915B_stringValue"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

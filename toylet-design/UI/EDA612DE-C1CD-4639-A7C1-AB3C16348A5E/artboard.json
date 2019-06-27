@@ -42,6 +42,7 @@
     "base": 0,
     "do_objectID": "B9E7F6ED-84A3-4939-B41E-590665191FA5",
     "guides": [
+      1685
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -63,20 +64,16 @@
       "id": "F617B108-8E7C-46C4-BC36-4BFA7E042D8D"
     },
     {
-      "class": "symbolInstance",
-      "id": "34BB6C75-72B6-4C25-83F5-D337B01D28CD"
+      "class": "group",
+      "id": "B211CB90-81D1-48B5-8E23-299A4489BA47"
     },
     {
       "class": "group",
-      "id": "3C8CA400-AEEA-4587-931D-AE0E844B269E"
+      "id": "C486D348-F6DB-4A42-BC62-4FAD7402ED50"
     },
     {
       "class": "symbolInstance",
-      "id": "51DBE1C1-257C-43B4-8B43-FEC9A4BEA45B"
-    },
-    {
-      "class": "text",
-      "id": "E6772818-5B6D-4476-A186-D940050CB0C2"
+      "id": "BEB5BB7D-5FC4-4E12-8A63-B94D3EE68858"
     }
   ],
   "layout": {

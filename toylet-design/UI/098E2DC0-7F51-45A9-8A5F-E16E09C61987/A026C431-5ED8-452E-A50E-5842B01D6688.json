@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A026C431-5ED8-452E-A50E-5842B01D6688",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ADC0E53D-B2DD-48DC-8D4C-BDC6408AA189",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "911FF23E-8D19-4A36-9D7A-6BDCF438C746",
+    "height": 72,
+    "width": 72,
+    "x": 1764,
+    "y": 954
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/FAB/Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E08F533A-3EE2-45D3-B662-CDA00B0D43E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A1831A20-0DF5-4583-91A0-6147D0E76B21",
+  "verticalSpacing": 0
+}

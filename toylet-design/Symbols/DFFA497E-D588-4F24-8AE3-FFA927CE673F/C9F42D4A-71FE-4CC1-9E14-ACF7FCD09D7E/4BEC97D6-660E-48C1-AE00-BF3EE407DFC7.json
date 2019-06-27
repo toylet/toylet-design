@@ -17,11 +17,11 @@
             "_class": "UIFontDescriptor",
             "attributes": {
               "name": "SourceSansPro-Bold",
-              "size": 24
+              "size": 20
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 5.4,
+          "kerning": 4.5,
           "paragraphStyle": {
             "_class": "paragraphStyle"
           },
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 31,
-    "width": 106,
-    "x": 54,
-    "y": 36
+    "height": 25,
+    "width": 551,
+    "x": 32,
+    "y": 24
   },
-  "glyphBounds": "{{1, 8}, {98, 16}}",
+  "glyphBounds": "{{1, 6}, {82, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,11 +91,11 @@
           "_class": "UIFontDescriptor",
           "attributes": {
             "name": "SourceSansPro-Bold",
-            "size": 24
+            "size": 20
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 5.4,
+        "kerning": 4.5,
         "paragraphStyle": {
           "_class": "paragraphStyle"
         },
@@ -105,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

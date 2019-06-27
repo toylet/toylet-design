@@ -6,6 +6,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
-    "width": 64,
-    "x": 20,
-    "y": 20
+    "height": 40,
+    "width": 42,
+    "x": 30,
+    "y": 32
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,19 +39,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapePath",
-      "id": "58A087FB-FB52-4F1F-AB8C-89F311EBA2DF"
-    },
     {
       "class": "shapePath",
       "id": "3FDBF4F7-5D17-45DF-931E-3EF3D57A581A"
     }
   ],
-  "name": "round-arrow_forward-24px",
-  "nameIsFixed": false,
+  "name": "right-arrow",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
